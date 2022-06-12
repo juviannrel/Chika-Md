@@ -19,25 +19,25 @@
   }
 
   // Setting Owner
-  global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-  global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-  global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.owner = ['6282362285077','6282362285077','62895601617250'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.premium = ['6282362285077'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.ownernomer = '6282362285077' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
   // Set Nama Own & Bot
-  global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-  global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-  global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+  global.ownername = 'Juvian' //ubah jadi nama mu, note tanda ' gausah di hapus!
+  global.botname = 'Vian-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+  global.footer = 'Juviann' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
   // Set Kebutuhan Button & Kontak
   //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
   global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-  global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
+  global.mygc = 'https://chat.whatsapp.com/FvVp4ePuehu56rzaUOgNiZ'
   global.myweb = 'https://api-riychdwayne.herokuapp.com'
   global.region = 'indonesia'
 
   // Set Wm
-  global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-  global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+  global.packname = '© Vian-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+  global.author = 'Juvian' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
   // Set Nama Session
   //gausah di apa² in!
@@ -45,7 +45,7 @@
 
   // Set Image
   //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-  global.thumb = fs.readFileSync('./image/chika.jpg')
+  global.thumb = fs.readFileSync('./image/IMG_20220611_203530-compress1.jpg')
   global.velochika = fs.readFileSync('./image/chika.mp4')
 
   // Set Image Welcome
